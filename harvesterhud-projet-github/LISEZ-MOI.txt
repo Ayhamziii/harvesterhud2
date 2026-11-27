@@ -1,0 +1,6 @@
+1. Va sur github.com, cree un compte gratuit, puis "New repository" (nom : harvesterhud, Public).
+2. Clique "uploading an existing file", glisse TOUT le contenu de ce dossier
+   (dont le dossier .github) puis "Commit changes".
+3. Onglet "Actions" : la compilation demarre toute seule (3-5 min).
+4. Clique sur le run termine, section "Artifacts" : telecharge "harvesterhud-jar" (un zip contenant le .jar).
+5. Mets le .jar + Fabric API 0.161.0+26.2 (Modrinth) dans le dossier des mods de Lunar.
